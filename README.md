@@ -11,7 +11,7 @@ If multiple discounts are valid shall the system allways chose the largest
 discount first and there after the other in descending order.
 
 1.	Calculate cart with items price and add a shipping cost of 50SEK.
-2.	a) Free shipping when total price of all items in cart exceeds 400SEK.
+2.	a) Free shipping when total price of all items in cart exceeds 400SEK.<br/>
 	b) Free shipping when the cart contains more than 5 different items.
 3.	If there are 5+ of the same item there should be a volume discount of 10% that's only valid on that specific item.
 4.	Regular custumers gets 10% discount on the whole cart.
@@ -28,7 +28,7 @@ discount first and there after the other in descending order.
 * The pair on the keyboard should continuously explain what they are doing.
 * The pair on the keyboard should stop when someone from the audience falls off the sled — and only continue when that someone is back on track again.
 
-### <p style="text-align: center;">Happy coding! :) </p>
+### Happy coding! :)
 
 ### Open source?
 This code kata are created by Stellan Lindell. The code kata source code are completly open source and free to use, both for personal and comercial purposes. Licensed under the MIT Licence.
